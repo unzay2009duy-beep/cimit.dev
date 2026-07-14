@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Permissions and Activity Logs System",
+  "description": "A full-stack Vietnamese retail system with granular role-based permissions (Admin, Staff, Customer), activity logging, product/category management, cart/checkout, real-time chats, notifications, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
